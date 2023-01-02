@@ -1,0 +1,19 @@
+C:\Users\lol\Downloads\XeRon\bang\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\lol\Downloads\XeRon\bang\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.csproj.AssemblyReference.cache
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.csproj.SuggestedBindingRedirects.cache
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\MainWindow.g.cs
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\App.g.cs
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\MainWindow.baml
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.csproj.GenerateResource.cache
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.csproj.CoreCompileInputs.cache
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.csproj.CopyComplete
+C:\Users\lol\Downloads\XeRon\bang\bin\Debug\XeRon Executor.exe.config
+C:\Users\lol\Downloads\XeRon\bang\bin\Debug\XeRon Executor.exe
+C:\Users\lol\Downloads\XeRon\bang\bin\Debug\XeRon Executor.pdb
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor_MarkupCompile.cache
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor_MarkupCompile.lref
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.g.resources
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRonExecutor.Properties.Resources.resources
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.exe
+C:\Users\lol\Downloads\XeRon\bang\obj\Debug\XeRon Executor.pdb
